@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com" height="88px" width="54px" style="vertical-align:middle;margin:2px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Octicons-logo-github.svg/360px-Octicons-logo-github.svg.png" />][github]
+[<img align="left" alt="github.com" width="27px" style="vertical-align:middle;margin:-3px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1920px-Font_Awesome_5_brands_github.svg.png" />][github]
 
 [<img align="left" alt="mortajaalqassab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -26,7 +26,8 @@
 
 [<img align="left" alt="git" width="44px" style="vertical-align:middle;margin:4px 8px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/300px-Git-logo.svg.png" />][git]
 
-[<img align="left" alt="github.com" height="75px" width="45px" style="vertical-align:middle;margin:5px 8px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Octicons-logo-github.svg/360px-Octicons-logo-github.svg.png" />][github]
+[<img align="left" alt="github.com" width="27px" style="vertical-align:middle;margin:-3px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1920px-Font_Awesome_5_brands_github.svg.png" />][github]
+
 
 
 [<img align="left" alt="docker" width="33px" style="vertical-align:middle;margin:-4px 10px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />][docker]
