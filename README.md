@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="github.com" width="27px" style="vertical-align:middle;margin:-3px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1920px-Font_Awesome_5_brands_github.svg.png" />][github]
+[<img align="left" alt="github.com" width="27px" style="vertical-align:middle;margin:-4px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1920px-Font_Awesome_5_brands_github.svg.png" />][github]
 
 [<img align="left" alt="mortajaalqassab | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -26,7 +26,7 @@
 
 [<img align="left" alt="git" width="44px" style="vertical-align:middle;margin:4px 8px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/300px-Git-logo.svg.png" />][git]
 
-[<img align="left" alt="github.com" width="27px" style="vertical-align:middle;margin:-3px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1920px-Font_Awesome_5_brands_github.svg.png" />][github]
+[<img align="left" alt="github.com" width="27px" style="vertical-align:middle;margin:-4px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/1920px-Font_Awesome_5_brands_github.svg.png" />][github]
 
 
 
@@ -58,7 +58,7 @@
 [<img align="left" alt="csharp" width="24px" style="vertical-align:middle;margin:2px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/910px-C_Sharp_logo.svg.png" />][csharp]
 
 
-[<img align="left" alt="cplusplus" width="20px" style="vertical-align:middle;margin:4px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png" />][cplusplus]
+[<img align="left" alt="cplusplus" width="22px" style="vertical-align:middle;margin:5px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/300px-ISO_C%2B%2B_Logo.svg.png" />][cplusplus]
 
 
 
@@ -81,7 +81,7 @@
 
 [<img align="left" alt="flutter" width="26px" style="vertical-align:middle;margin:2px 10px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-goog/events/flutter-logo-5086DD11C5-seeklogo.com_.png" />][flutter]
 
-[<img align="left" alt="djano" width="55px" style="vertical-align:middle;margin:6px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/370px-Django_logo.svg.png" />][django]
+[<img align="left" alt="djano" width="55px" style="vertical-align:middle;margin:8px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/370px-Django_logo.svg.png" />][django]
 
 [<img align="left" alt="dotnet" width="30px" style="vertical-align:middle;margin:0px 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1920px-.NET_Logo.svg.png" />][dotnet]
 
