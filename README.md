@@ -43,7 +43,6 @@
 
 <br />
 
---- 
 
 ### Languages:
 
@@ -62,11 +61,8 @@
 
 
 
-
-
 <br />
 
---- 
 
 ### Frameworks: 
 
@@ -87,19 +83,15 @@
 
 
 <br />
+<br />
 
 --- 
-
-<br />
-<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mort8q&hide=ruby&layout=compa)](https://github.com/mort8q/github-readme-stats)
 
 
---- 
 
-<br />
 <br />
 
 
