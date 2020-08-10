@@ -90,6 +90,20 @@
 
 --- 
 
+<br />
+<br />
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mort8q&hide=ruby&layout=compa)](https://github.com/mort8q/github-readme-stats)
+
+
+--- 
+
+<br />
+<br />
+
+
+[![mort8q github stats](https://github-readme-stats.vercel.app/api?username=mort8q)](https://github.com/mort8q/github-readme-stats)
 
 
 <br />
