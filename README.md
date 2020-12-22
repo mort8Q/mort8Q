@@ -18,7 +18,7 @@ I’m a Data Scientist working at a major Telecommunication services company. I 
 <br/>  
 
 
-## Rapidfire  
+## What I am doing 
 - 🎓 I’m currently preparing for the Tensorflow Certification  
   
 
