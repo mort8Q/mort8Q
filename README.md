@@ -12,17 +12,17 @@
 </a>  
   
 
-I’m a Data Scientist working at a major Telecommunication services company. I am also a Full-Stack Web & Mobile Developer.  As a Data Scientist with good skills in web development, I am able to handle a whole project A to Z. For example, I can develop projects including both data solutions and web solutions and integrate them together for client and companies.  
+I’m a Data Scientist working at a an International IT Consultancy company. I am also a Full-Stack Web & Mobile Developer.  As a Data Scientist with good skills in web development, I am able to handle a whole project A to Z. For example, I can develop projects including both data solutions and web solutions and integrate them together for client and companies.  
   
 
 <br/>  
 
 
 ## What I am doing 
-- 🎓 I’m currently preparing for the Tensorflow Certification  
+- 🎓 I’m currently learning Computer Vision development using C++ and Nvidia  
   
 
-- 📖 I'm currently reading AI by Example  
+- 📖 I'm currently reading The Organized Mind: Thinking Straight in the Age of Information Overlaod 
   
 
 <br/>  
